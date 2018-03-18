@@ -35,9 +35,10 @@
 2. 空中英语教室
 3. 生活英语台
 4. American Movie Classics
-5. BBC
-6. Sky News
-7. USA-MSNBC等
+5. Cinema World
+6. BBC
+7. Sky News
+8. USA-MSNBC等
 
 ### 五、儿童动画频道
 
