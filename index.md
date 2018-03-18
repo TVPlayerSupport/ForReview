@@ -50,7 +50,7 @@
 
 1. 郭岳贾宋等相声小品
 2. 外国搞笑频道
-3. Comedy-Central(美国喜剧中心频道)
+3. Comedy-Central（美国喜剧中心频道）
 4. Fashion-One
 5. 音乐MTV等
 6. CLASSICA
