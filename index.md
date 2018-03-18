@@ -31,12 +31,13 @@
 
 ### 四、英语学习频道
 
-1. 空中英语教室
-2. 生活英语台
-3. American Movie Classics
-4. BBC
-5. Sky News
-6. USA-MSNBC等
+1. LTE英语学习台
+2. 空中英语教室
+3. 生活英语台
+4. American Movie Classics
+5. BBC
+6. Sky News
+7. USA-MSNBC等
 
 ### 五、儿童动画频道
 
@@ -52,6 +53,9 @@
 3. Comedy-Central(美国喜剧中心频道)
 4. Fashion-One
 5. 音乐MTV等
+6. CLASSICA
+7. SMASH HIT
+8. MEZZO
 
 ### 七、电影轮播点播
 
