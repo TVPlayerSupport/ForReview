@@ -54,10 +54,11 @@
 2. 外国搞笑频道
 3. Comedy-Central（美国喜剧中心频道）
 4. Fashion-One
-5. 音乐MTV等
+5. MTV
 6. CLASSICA
 7. SMASH HIT
 8. MEZZO
+9. MC（music choice）音乐台-欧美音乐迷的挚爱
 
 ### 七、电影轮播点播
 
@@ -68,8 +69,8 @@
 
 1. 央广中国之声经济之声音乐之声等
 2. 剑鱼音乐(FM80后音乐台)
-3. CNR音乐之声等
-
+3. CNR音乐之声
+4. VOA
 
 ## [返回](http://TVPlayerSupport.github.io/TVPlayerSupport/)
 
