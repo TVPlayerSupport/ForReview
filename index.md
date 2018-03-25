@@ -31,14 +31,15 @@
 
 ### 四、英语学习频道
 
-1. LTE英语学习台
-2. 空中英语教室
-3. 生活英语台
+1. LTE英语学习台（已失效）
+2. 空中英语教室（已失效）
+3. 生活英语台（已失效）
 4. American Movie Classics
 5. Cinema World
 6. BBC
-7. Sky News
-8. USA-MSNBC等
+7. CNN
+8. Sky News
+9. USA-MSNBC等
 
 ### 五、儿童动画频道
 
