@@ -55,12 +55,15 @@
 
 1. 国内外众多电影频道
 2. 战旗电影等
+3. 峨眉电影
+4. 潇湘电影
 
 ###  八、调频广播电台
 
 1. 央广中国之声经济之声音乐之声等
 2. 剑鱼音乐(FM80后音乐台)
 3. CNR音乐之声
+4. VOA
 
 ## [返回](http://TVPlayerSupport.github.io/TVPlayerSupport/)
 
