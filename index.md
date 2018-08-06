@@ -46,7 +46,7 @@
 ### 六、娱乐休闲频道
 
 1. MC（music choice）音乐台-欧美音乐迷的挚爱
-2. CLUB Capital
+2. Capital TV
 3. Fashion-One
 4. MTV
 5. CLASSICA
