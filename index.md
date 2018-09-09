@@ -68,7 +68,8 @@
 2. 剑鱼音乐(FM80后音乐台)
 3. CNR音乐之声
 4. VOA
-5. ...
+5. BBC
+6. ...
 
 ## [返回](http://TVPlayerSupport.github.io/TVPlayerSupport/)
 
