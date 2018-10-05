@@ -47,8 +47,8 @@
 
 1. MC（music choice）音乐台-欧美音乐迷的挚爱
 2. Capital TV
-3. Fashion-One
-4. MTV
+3. 印度 Zoom TV Channel
+4. MTV and Fashion-One
 5. CLASSICA
 6. SMASH HIT
 7. MEZZO
