@@ -1,10 +1,8 @@
 
 
 Move,https://tvplayersupport.github.io/Sample/move.mp4
-
-POP-PATAKA,http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
-pop-pataka,https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/index_2128_av-p.m3u8
-
+Radio Capital_tv,http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+Radio-Contact,http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
 M20-TV,http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 m20-tv,https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 

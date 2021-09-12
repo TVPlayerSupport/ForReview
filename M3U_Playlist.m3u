@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="sample.png" group-title="No group",Move
 https://tvplayersupport.github.io/Sample/move.mp4
-#EXTINF:-1 tvg-logo="sample.png" group-title="No group",POP-PATAKA
-http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
-#EXTINF:-1 tvg-logo="sample.png" group-title="No group",POP-PATAKAs
-https://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",Radio Capital_tv
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-b.m3u8
+#EXTINF:-1 tvg-logo="sample.png" group-title="No group",Radio-Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1800_av-p.m3u8
 #EXTINF:-1 tvg-logo="sample.png" group-title="No group",M20-TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="sample.png" group-title="No group",M20-TVs
